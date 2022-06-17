@@ -1,8 +1,10 @@
 body{
+   
     background-image: url(images/bg-intro-desktop.png);
     background-color: rosybrown;
     display: flex;
     font-size: 16px;
+    
 }
 
 .flex-container {
@@ -15,17 +17,15 @@ body{
     padding: 40px;
     
   }
-.item_2{
-    margin: auto;
-    
-}
+
 form{
     background-color: aliceblue;
     margin: 10px;
 }
-button{
+.button1{
     
-    background-color: hsl(0, 0%, 95%);
+    background-color: blue;
     padding: 10px;
     margin-top: 30px;
+    width: 100px;
 }
